@@ -8,7 +8,7 @@ func main() {
 ```
 
 - 🔭 Cloud native developer
-- 🌱 Half stack developer
+- 🌱 Half stack engineer
 - 😕 Bug maker
 
 [![povsister's github stats](https://github-readme-stats.vercel.app/api?username=povsister&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
